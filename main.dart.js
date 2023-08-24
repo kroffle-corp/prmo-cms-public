@@ -113018,9 +113018,9 @@ a5Z(a){var s=t.N,r=A.ak(["keyword",a],s,s)
 return this.dY().H(0,new A.akH(r),t.c).H(0,new A.akI(),t.dr)},
 a63(a){return this.dY().H(0,new A.al3(a),t.c).H(0,new A.al4(),t.Mc)},
 ax3(a){return this.dY().H(0,new A.akr(a),t.z)},
-azV(a){var s=t.N,r=A.ak(["title",a.b,"photo",a.c,"keywords",a.d,"website",a.e],s,t.K)
+azV(a){var s=t.N,r=A.ak(["title",a.b,"photo",a.c,"keywords",a.d,"website",a.e,"categories",[]],s,t.K)
 return this.dY().H(0,new A.akC(r),t.c).H(0,new A.akD(),s)},
-aEz(a){var s=t.N,r=A.ak(["id",a.a,"title",a.b,"photo",a.c,"keywords",a.d,"website",a.e],s,t.K)
+aEz(a){var s=t.N,r=A.ak(["id",a.a,"title",a.b,"photo",a.c,"keywords",a.d,"website",a.e,"categories",[]],s,t.K)
 return this.dY().H(0,new A.aln(r),t.c).H(0,new A.alo(),s)},
 aEB(a,b){var s=t.N,r=A.ak(["id",b,"status",a],s,s)
 s=t.z
