@@ -116983,7 +116983,7 @@ k=A.dW(!1,m,m,m,!0,m,!1,m,m,m,m,!1,m,m,m,m,m,B.a6U,a.ayG(),m)
 p=a.ax
 q=new A.ch().iV().a
 q=A.b3(A.b([k,A.dW(!1,m,m,m,!0,m,!1,m,m,m,new A.agN(a),p==="account",m,A.v(51,q>>>16&255,q>>>8&255,q&255),m,m,m,B.a75,m,m)],n),B.m,B.k,B.n)
-k=A.cD(2023,9,21,18,51,0,0,!1)
+k=A.cD(2023,9,21,19,3,0,0,!1)
 if(!A.c3(k))A.U(A.c7(k))
 $.ho()
 return A.ic(l,A.iX(new A.aR(B.kV,A.b3(A.b([new A.by("\uc571 \uc124\uc815",m,o,m,m),B.pC,B.dT,new A.by("CMS \uc124\uc815",m,q,m,m),B.pC,B.dT,new A.by("\ucd5c\uadfc \uc5c5\ub370\uc774\ud2b8",m,A.at(A.aW3("yyyy. MM. dd HH:mm").vI(new A.be(k,!1)),m,m,m,m,m,m,m),m,m),B.a1x],n),B.m,B.k,B.n),m),m,B.a6),m,m,m)},
@@ -117180,7 +117180,7 @@ $1(a){var s
 if(a==null)return A.B(null,t.z)
 s=this.a
 s.CW=!0
-s.cx.scM(0,"promotion/"+A.h(J.xP(a)))
+s.cx.scM(0,"/promotion/"+A.h(J.xP(a)))
 s.ar(0)
 return A.B(null,t.z)},
 $S:2}
